@@ -1,6 +1,6 @@
 # Chest-X-Ray-Images-Pneumonia
 
-In this notebook, we're going to detect and classify human diseases from medical images.
+In this notebook, we're going to detect and classify pneumonia from medical images.
 
 ## Data 
 
